@@ -17,11 +17,14 @@ The following files are included in this repository:
 - `Predicting_Fare_of_Airlines_Tickets_using_Machine_Learning.ipynb`: Jupyter Notebook containing the code for data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation.
 - `rf_random.pkl`: Serialized trained machine learning model (RandomForestRegressor) saved as a pickle file.
 
-- `Flight Price vs. Duration Categories`: Visualization showing the relationship between flight price and duration categories.<img src="flight_price_vs_duration_categories.png" alt="Flight Price vs. Duration Categories" width="600">
+- `Flight Price vs. Duration Categories`: Visualization showing the relationship between flight price and duration categories.
+- <img src="flight_price_vs_duration_categories.png" alt="Flight Price vs. Duration Categories" width="600">
 
-- `Flight Price vs. Duration`: Scatter plot illustrating the relationship between flight price and total duration.<img src="flight_price_vs_duration.png" alt="Flight Price vs. Duration" width="600">
+- `Flight Price vs. Duration`: Scatter plot illustrating the relationship between flight price and total duration.
+- <img src="flight_price_vs_duration.png" alt="Flight Price vs. Duration" width="600">
 
-- `Flight Departure Time Categories`: Bar plot displaying flight departure time categories.<img src="flight_departure_time_categories.png" alt="Flight Departure Time Categories" width="600">
+- `Flight Departure Time Categories`: Bar plot displaying flight departure time categories.
+- <img src="flight_departure_time_categories.png" alt="Flight Departure Time Categories" width="600">
 
 
 ## Dependencies
